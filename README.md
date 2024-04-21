@@ -15,7 +15,8 @@ Yiyao Li (400258214)
 William Russell (400199227)  
 Julian Vella (400408707)
 
-Final project for **ENVSOCTY 4GA3** \[Applied Spatial Statistics\]
+Final project for **ENVSOCTY 4GA3** [Applied Spatial
+Statistics](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=53&coid=267722)
 (McMaster University)
 
 ## Abstract
