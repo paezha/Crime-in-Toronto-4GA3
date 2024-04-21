@@ -54,15 +54,15 @@ been identified as having possible connections to criminal activity.
 
 # Background
 
-Crime rates related to unemployment and income are influenced by a
-variety of factors, with unemployment and income playing a significant
-role in shaping criminal activities. Research has shown that these two
-factors have a positive correlation (Dizman, 2020). Those with lower
-economic status can resort to crime, highlighting the impacts of
-economic factors on criminal behaviour (Rehaman, 2022). Moreover, the
-effects of income on crime have been a subject of interest, with studies
-suggesting that economic welfare plays a crucial role in crime reduction
-(Bianchi & Chen, 2021).
+Crime rates are influenced by a variety of factors, with unemployment
+and income playing a significant role in shaping criminal activities.
+Research has shown that these two factors have a positive correlation
+with crime rates (Dizman, 2020). Those with lower economic status can
+resort to crime, highlighting the impacts of economic factors on
+criminal behaviour (Rehaman, 2022). Moreover, the effects of income on
+crime have been a subject of interest, with studies suggesting that
+economic welfare plays a crucial role in crime reduction (Bianchi &
+Chen, 2021).
 
 From 2021 to 2023, auto theft in Toronto has seen a notable rise, with a
 nearly 85% increase within this time range, with 6,642 reported auto
